@@ -13,7 +13,7 @@ function Footer() {
           <a href="https://in.linkedin.com/in/mayur-durbule-20981b251" target="_blank" className="hover:scale-110 duration-200"><FaLinkedin size={24}/></a>  
           </div>
           <div className="mt-8 border-t border-gray-700 pt-8 flex flex-col items-center">
-            <p className="text-sm"> &copy; information Lorem ipsum dolor sit amet.</p>
+            <p className="text-sm"> &copy; information </p>
             <p className="text-sm">your partner Mayur</p>
           </div>
         </div>
